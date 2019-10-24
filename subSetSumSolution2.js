@@ -7,7 +7,7 @@ const findSubsetSum = (number) => {
 }
 
 const sum = findSubsetSum(3) // pass the number you want to find the sum of the power set of number
-// console.log(sum);
+console.log(sum);
 
 module.exports = {
   findSubsetSum

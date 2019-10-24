@@ -40,11 +40,11 @@ const getSum = (subsets) => {
 
   return sum;
 }
+
 const set = getSet(3); // pass the number you want to find the sum of the power set of number
 const subsets = getSubsets(set);
-// console.log(subsets);
 const sum = getSum(subsets);
-// console.log(sum)
+console.log(sum)
 
 module.exports = {
   getSet,
