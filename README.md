@@ -20,6 +20,13 @@ To setup the project in your local machine follow the steps below:
 2. Clone the repository to your machine.
 3. run ```npm install``` in the project root directory.
 
+Runing the solutions for question 1
+===================================
+Solution 1:
+  run ```node subsetSumSolution1.js``` in the root direcotry
+Solution 2:
+  run ```node subsetSumSolution2.js``` in the root direcotry
+
 Runing the tests
 ================
 
